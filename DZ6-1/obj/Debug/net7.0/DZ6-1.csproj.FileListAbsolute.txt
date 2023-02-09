@@ -1,0 +1,15 @@
+D:\Всякие мои доки\Мое\GB\C#\DZ6\DZ6-1\obj\Debug\net7.0\DZ6-1.csproj.AssemblyReference.cache
+D:\Всякие мои доки\Мое\GB\C#\DZ6\DZ6-1\obj\Debug\net7.0\DZ6-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Всякие мои доки\Мое\GB\C#\DZ6\DZ6-1\obj\Debug\net7.0\DZ6-1.AssemblyInfoInputs.cache
+D:\Всякие мои доки\Мое\GB\C#\DZ6\DZ6-1\obj\Debug\net7.0\DZ6-1.AssemblyInfo.cs
+D:\Всякие мои доки\Мое\GB\C#\DZ6\DZ6-1\obj\Debug\net7.0\DZ6-1.csproj.CoreCompileInputs.cache
+D:\Всякие мои доки\Мое\GB\C#\DZ6\DZ6-1\bin\Debug\net7.0\DZ6-1.exe
+D:\Всякие мои доки\Мое\GB\C#\DZ6\DZ6-1\bin\Debug\net7.0\DZ6-1.deps.json
+D:\Всякие мои доки\Мое\GB\C#\DZ6\DZ6-1\bin\Debug\net7.0\DZ6-1.runtimeconfig.json
+D:\Всякие мои доки\Мое\GB\C#\DZ6\DZ6-1\bin\Debug\net7.0\DZ6-1.dll
+D:\Всякие мои доки\Мое\GB\C#\DZ6\DZ6-1\bin\Debug\net7.0\DZ6-1.pdb
+D:\Всякие мои доки\Мое\GB\C#\DZ6\DZ6-1\obj\Debug\net7.0\DZ6-1.dll
+D:\Всякие мои доки\Мое\GB\C#\DZ6\DZ6-1\obj\Debug\net7.0\refint\DZ6-1.dll
+D:\Всякие мои доки\Мое\GB\C#\DZ6\DZ6-1\obj\Debug\net7.0\DZ6-1.pdb
+D:\Всякие мои доки\Мое\GB\C#\DZ6\DZ6-1\obj\Debug\net7.0\DZ6-1.genruntimeconfig.cache
+D:\Всякие мои доки\Мое\GB\C#\DZ6\DZ6-1\obj\Debug\net7.0\ref\DZ6-1.dll
